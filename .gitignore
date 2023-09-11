@@ -16,7 +16,9 @@ jspm_packages
 .node_repl_history
 .DS_Store
 server/assets/*
-.env
 todo.txt
 .idea
-.vscode
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
